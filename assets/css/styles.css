@@ -1,0 +1,57 @@
+body {
+	background: #EDEDED;
+	font-family: trebuchet MS;
+}
+h1 {
+	text-align: center;
+	color: black;
+	font-family: fantasy;
+	border-style: bold;
+	border-top: thick;
+	border-style: solid;
+	box-shadow: 10px 10px 5px;
+	line-height: 100px;
+
+}
+div{
+	text-align: center;
+}
+h2{
+	border-style: bold;
+	border-top: thick;
+	border-style: solid;
+	box-shadow: 10px 10px 5px;
+	line-height: 20px;
+}
+h2,h3, h4 {
+	color: black;
+	border-color: black;
+	display: inline-block;
+}
+a{
+	font-size: 18px;
+}
+ul{
+	font-size: 18px;
+}
+
+.image-container {
+	overflow: hidden;
+}
+.h1-alignment{
+	background: #C1C1FF;
+}
+.h1-border-shadow{
+	color: black;
+	width: 30%;
+    margin: 0 auto;
+    background:#D6D6FF;
+}
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.border-width{
+	width: 10px
+}
